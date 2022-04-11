@@ -1,0 +1,50 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    justify-items: left;
+    display: flex;
+    float: left;
+}
+
+#form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+input[type="text"] {
+    height: 30px;
+    width: 250px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+button {
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: fit-content;
+    align-self: center;
+    
+}
+
+#reveal {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    display: none;
+}
+
+i {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: 10px;
+    text-align: center;
+}
